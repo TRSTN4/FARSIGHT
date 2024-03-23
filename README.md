@@ -1,6 +1,6 @@
 # FARSIGHT Portfolio Overview
 
-This is a portfolio overview for **FARSIGHT**, a Roblox game developed as part of my game development journey. This document serves as a reflection on the project and showcases the skills and technologies I employed during development.
+This is a portfolio overview for **FARSIGHT**, this was my third Roblox game developed as part of my game development journey. This document serves as a reflection on the project and showcases the skills and technologies I employed during development.
 
 ## Project Description
 🔦🌲 FARSIGHT 🔦🌲
