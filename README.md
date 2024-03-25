@@ -26,14 +26,15 @@ While this repository does not contain the game's source code, you can view the 
 
 ## Skills Learned
 Throughout the development of **FARSIGHT**, I've acquired and honed a variety of skills, demonstrating my growth as a game developer:
--  **Game & World Design**: Crafted an immersive game world with rich environments, ensuring each area supports the overarching narrative and gameplay mechanics.
--  **UI/UX Design**: Crafted a slick, intuitive user interface design, enhancing player immersion and interaction.
+-  **Immersive Game & World Design**: Crafted an immersive game world with rich environments, ensuring each area supports the overarching narrative and gameplay mechanics.
+-  **Advanced UI/UX Design**: Crafted a slick, intuitive user interface design, enhancing player immersion and interaction.
 -  **Networking**: Implemented a robust player queue system and private server features for personalized gameplay experiences.
--  **Multiplayer**: Engineered a co-op system for up to 4 players, including both collaborative and solo play options.
--  **Save System**: Created a reliable game progress save system, ensuring a seamless player experience across sessions.
--  **Audio Design**: Curated a scary ambient environment with real jumpscares, amplifying the horror game atmosphere.
+-  **Complicated Multiplayer**: Engineered a co-op system for up to 4 players, including both collaborative and solo play options.
+-  **Improved Save System**: Created a reliable game progress save system, ensuring a seamless player experience across sessions.
+-  **Advanced Audio Design**: Curated a scary ambient environment with real jumpscares, amplifying the horror game atmosphere.
 -  **Cutscene Design**: Designed and integrated multiple cutscenes, enriching the game's narrative and visual storytelling.
--   **Error Handling**: Thorough error handling to ensure gameplay stability and security. 
+-  **Controller Integration**: Adapted game controls for use with game controllers, including the implementation of shortcuts for inventory management, flashlight use, map navigation, and more, broadening the game's accessibility.
+-  **Advanced Error Handling**: Thorough error handling to ensure gameplay stability and security.
 
 ## Game Features 
 **FARSIGHT** is designed with a host of features that contribute to its unique gameplay experience:
