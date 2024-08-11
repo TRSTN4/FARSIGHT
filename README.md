@@ -406,4 +406,4 @@ This preview section contains images, GIFs, and possible sound fragments from th
 
 ## Gameplay
 
-***Youtube:*** ![Loot Runners Gameplay](https://youtu.be/T_Ynp9jm9e4)
+***Youtube:*** [Loot Runners Gameplay](https://youtu.be/T_Ynp9jm9e4)
