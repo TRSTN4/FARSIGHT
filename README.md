@@ -396,7 +396,7 @@ This preview section contains images, GIFs, and possible sound fragments from th
 
 ![hub_billboard_1](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/hub/hub_billboard_1.png?raw=true)
 
-![hub_portals_2](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/hub/hub_portals_2.png.png?raw=true)
+![hub_portals_2](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/hub/hub_portals_2.png?raw=true)
 
 ![hub_map](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/hub/hub_map.png?raw=true)
 
