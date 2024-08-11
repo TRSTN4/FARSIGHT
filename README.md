@@ -60,6 +60,8 @@ My priority is to maintain a secure and enjoyable environment for all players, a
 
 This preview section contains images, GIFs, and possible sound fragments from the game.
 
+At the end of this section, you'll find a YouTube link to a gameplay video. Please note that this video showcases standard gameplay footage and may not cover all aspects of the game.
+
 ## Collectables
 
 ![FS_NEWSPAPERS](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/collectables/newspapers/FS_NEWSPAPERS.gif?raw=true)
