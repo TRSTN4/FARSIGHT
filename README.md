@@ -403,3 +403,7 @@ This preview section contains images, GIFs, and possible sound fragments from th
 ![hub_billboard_3](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/hub/hub_billboard_3.png?raw=true)
 
 ![hub_billboard_2](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/hub/hub_billboard_2.png?raw=true)
+
+## Gameplay
+
+***Youtube:*** ![Loot Runners Gameplay](https://youtu.be/T_Ynp9jm9e4)
