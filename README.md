@@ -62,6 +62,10 @@ This preview section contains images, GIFs, and possible sound fragments from th
 
 At the end of this section, you'll find a YouTube link to a gameplay video. Please note that this video showcases standard gameplay footage and may not cover all aspects of the game.
 
+## Tutorial
+
+![FS_TUTORIAL](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/tutorial/FS_TUTORIAL.gif?raw=true)
+
 ## Collectables
 
 ![FS_NEWSPAPERS](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/collectables/newspapers/FS_NEWSPAPERS.gif?raw=true)
@@ -133,10 +137,6 @@ At the end of this section, you'll find a YouTube link to a gameplay video. Plea
 ## Reset
 
 ![FS_RESET_PROGRESS](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/reset/FS_RESET_PROGRESS.gif?raw=true)
-
-## Tutorial
-
-![FS_TUTORIAL](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/tutorial/FS_TUTORIAL.gif?raw=true)
 
 ## Map
 
