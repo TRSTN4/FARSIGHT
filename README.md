@@ -66,6 +66,40 @@ At the end of this section, you'll find a YouTube link to a gameplay video. Plea
 
 ![FS_TUTORIAL](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/tutorial/FS_TUTORIAL.gif?raw=true)
 
+## Objectives
+
+![FS_OBJECTIVES_FAST](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/objectives/FS_OBJECTIVES_FAST.gif?raw=true)
+
+## Events
+
+![FS_EVENT_AIRFORCE](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/events/FS_EVENT_AIRFORCE.gif?raw=true)
+
+![FS_EVENT_JETS](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/events/FS_EVENT_JETS.gif?raw=true)
+
+## Jumpscares
+
+![FS_JUMPSCARE_FLASHLIGHT](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/jumpscares/FS_JUMPSCARE_FLASHLIGHT.gif?raw=true)
+
+![FS_JUMPSCARE_STALKER](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/jumpscares/FS_JUMPSCARE_STALKER.gif?raw=true)
+
+![FS_JUMPSCARE_TEDDY](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/jumpscares/FS_JUMPSCARE_TEDDY.gif?raw=true)
+
+![FS_JUMPSCARE_TRAP](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/jumpscares/FS_JUMPSCARE_TRAP.gif?raw=true)
+
+## General
+
+![FS_FLASHLIGHT](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/general/FS_FLASHLIGHT.gif?raw=true)
+
+![FS_MAP](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/general/FS_MAP.gif?raw=true)
+
+## Knockouts
+
+![FS_KNOCKOUT_ACID](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/knockouts/FS_KNOCKOUT_ACID.gif?raw=true)
+
+![FS_KNOCKOUT_DROWNING](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/knockouts/FS_KNOCKOUT_DROWNING.gif?raw=true)
+
+![FS_KNOCKOUT_FIRE](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/knockouts/FS_KNOCKOUT_FIRE.gif?raw=true)
+
 ## Collectables
 
 ![FS_NEWSPAPERS](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/collectables/newspapers/FS_NEWSPAPERS.gif?raw=true)
@@ -80,36 +114,6 @@ At the end of this section, you'll find a YouTube link to a gameplay video. Plea
 
 ![FS_ENDING_TRUE](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/endings/FS_ENDING_TRUE.gif?raw=true)
 
-## Events
-
-![FS_EVENT_AIRFORCE](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/events/FS_EVENT_AIRFORCE.gif?raw=true)
-
-![FS_EVENT_JETS](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/events/FS_EVENT_JETS.gif?raw=true)
-
-## General
-
-![FS_FLASHLIGHT](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/general/FS_FLASHLIGHT.gif?raw=true)
-
-![FS_MAP](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/general/FS_MAP.gif?raw=true)
-
-## Jumpscares
-
-![FS_JUMPSCARE_FLASHLIGHT](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/jumpscares/FS_JUMPSCARE_FLASHLIGHT.gif?raw=true)
-
-![FS_JUMPSCARE_STALKER](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/jumpscares/FS_JUMPSCARE_STALKER.gif?raw=true)
-
-![FS_JUMPSCARE_TEDDY](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/jumpscares/FS_JUMPSCARE_TEDDY.gif?raw=true)
-
-![FS_JUMPSCARE_TRAP](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/jumpscares/FS_JUMPSCARE_TRAP.gif?raw=true)
-
-## Knockouts
-
-![FS_KNOCKOUT_ACID](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/knockouts/FS_KNOCKOUT_ACID.gif?raw=true)
-
-![FS_KNOCKOUT_DROWNING](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/knockouts/FS_KNOCKOUT_DROWNING.gif?raw=true)
-
-![FS_KNOCKOUT_FIRE](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/knockouts/FS_KNOCKOUT_FIRE.gif?raw=true)
-
 ## Menus
 
 ![FS_SETTINGS](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/menus/FS_SETTINGS.gif?raw=true)
@@ -123,10 +127,6 @@ At the end of this section, you'll find a YouTube link to a gameplay video. Plea
 ![FS_MULTIPLAYER_PORTAL](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/multiplayer/FS_MULTIPLAYER_PORTAL.gif?raw=true)
 
 ![FS_OTHER_COLLECTED](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/multiplayer/FS_OTHER_COLLECTED.gif?raw=true)
-
-## Objectives
-
-![FS_OBJECTIVES_FAST](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/objectives/FS_OBJECTIVES_FAST.gif?raw=true)
 
 ## Portals
 
