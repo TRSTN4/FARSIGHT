@@ -92,14 +92,6 @@ At the end of this section, you'll find a YouTube link to a gameplay video. Plea
 
 ![FS_MAP](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/general/FS_MAP.gif?raw=true)
 
-## Knockouts
-
-![FS_KNOCKOUT_ACID](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/knockouts/FS_KNOCKOUT_ACID.gif?raw=true)
-
-![FS_KNOCKOUT_DROWNING](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/knockouts/FS_KNOCKOUT_DROWNING.gif?raw=true)
-
-![FS_KNOCKOUT_FIRE](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/knockouts/FS_KNOCKOUT_FIRE.gif?raw=true)
-
 ## Collectables
 
 ![FS_NEWSPAPERS](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/collectables/newspapers/FS_NEWSPAPERS.gif?raw=true)
@@ -113,6 +105,14 @@ At the end of this section, you'll find a YouTube link to a gameplay video. Plea
 ![FS_ENDING_GOOD](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/endings/FS_ENDING_GOOD.gif?raw=true)
 
 ![FS_ENDING_TRUE](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/endings/FS_ENDING_TRUE.gif?raw=true)
+
+## Knockouts
+
+![FS_KNOCKOUT_ACID](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/knockouts/FS_KNOCKOUT_ACID.gif?raw=true)
+
+![FS_KNOCKOUT_DROWNING](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/knockouts/FS_KNOCKOUT_DROWNING.gif?raw=true)
+
+![FS_KNOCKOUT_FIRE](https://github.com/TRSTN4/FARSIGHT/blob/main/preview/knockouts/FS_KNOCKOUT_FIRE.gif?raw=true)
 
 ## Menus
 
